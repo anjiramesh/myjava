@@ -10,6 +10,7 @@ public Product() {
 public int getPid() {
 	return pid;
 }
+//ok
 public void setPid(int pid) {
 	this.pid = pid;
 }
